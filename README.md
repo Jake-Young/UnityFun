@@ -1,4 +1,3 @@
 # Unity Template
-Unity Template Repo
 
-**Unity Version**: 20XX.X
+**Unity Version**: 2019.3
