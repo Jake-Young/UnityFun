@@ -4,6 +4,8 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/VRTK.Tutorials.OculusIntegration*
+Assets/Thirdparty*
 
 # Visual Studio cache directory
 .vs/
